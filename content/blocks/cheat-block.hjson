@@ -17,9 +17,13 @@ idleSoundVolume: 0.5
 results: [
     copper/1
     lead/1
+    sand/1
+    coal/1
     graphite/1
     metaglass/1
     titanium/1
+    scrap/1
+    pyratite/1
     silicon/1
     thorium/1
     plastanium/1
