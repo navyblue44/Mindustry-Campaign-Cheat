@@ -2,32 +2,32 @@ type: Separator
 name: Cheat Block
 description: A block which creates items from a tiny amount of power, in large supply. (Useful for skipping campaign.)
 size: 1
-hasPower: true
+hasPower: false
 hasItems: true
-craftTime: 2
+craftTime: 1
 updateEffect: smeltsmoke
 consumes: {
 }
 requirements: [
-  copper/20
+  copper/5
 ]
 category: crafting
 idleSound: respawning
 idleSoundVolume: 0.5
 results: [
-    copper/1
-    lead/1
-    sand/1
-    coal/1
-    graphite/1
-    metaglass/1
-    titanium/1
-    scrap/1
-    pyratite/1
-    silicon/1
-    thorium/1
-    plastanium/1
-    phase-fabric/1
-    surge-alloy/1
+    copper/2
+    lead/2
+    sand/2
+    coal/2
+    graphite/2
+    metaglass/2
+    titanium/2
+    scrap/2
+    pyratite/2
+    silicon/2
+    thorium/2
+    plastanium/2
+    phase-fabric/2
+    surge-alloy/2
 ]
 research: mechanical-drill
