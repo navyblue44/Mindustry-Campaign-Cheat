@@ -1,6 +1,6 @@
 name: "cheat-block"
 displayName: "[blue]Cheat Block"
-author: "navyblue"
+author: "HappyGingerWolf (original)/navyblue (forked)"
 description: "Adds a block which produces a tonne of resources for free, useful for getting extra resources in campaign. Forked from HappyGingerWolf."
 version: "1.2"
 minGameVersion: "105"
